@@ -1,3 +1,4 @@
 [build]
+  framework = "next"
   publish = ".next"
   command = "npm run build"
